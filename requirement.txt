@@ -1,0 +1,17 @@
+STEP ONE :
+"Clone repo using Git Bash";
+"Copy HTTPS:// ...."
+
+STEP TWO:
+"Through GIT BASH -> upload the repo to our Local_System";
+
+Basic Command Knowledge Like 
+"Git Status";
+"Git Pull";
+"Git Push";
+"Git Commit -m "[ changes Description (Update at Profile Img Logo) ];
+"Git Pull";
+
+ADVANCCED :
+"Merging";
+"Branching";
